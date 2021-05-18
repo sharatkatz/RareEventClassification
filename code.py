@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+# -------------------------------------------
+# Rare Event prediction with classical 
+# modeling approach with a linear classifier
+# -------------------------------------------
 
 import pandas as pd
 import numpy as np
